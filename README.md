@@ -7,5 +7,5 @@ pip install pygame or pip3 install pygame
 
 
 Just run the tictactoe.py which i have provided .
-also extract the O.png , X.png and tic tac opening.png in the python repository folder.
+also extract the O.png , X.png and tictactoeopening.png in the python repository folder.
 Enjoy !!!!!!!
